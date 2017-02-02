@@ -1,0 +1,1 @@
+cat areas* |sort -n|uniq >> sort.txt
